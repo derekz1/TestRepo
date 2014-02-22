@@ -3,3 +3,5 @@
 This is first version of this dummy file A
 
 This is new change in file A
+
+This is another change in file A.
