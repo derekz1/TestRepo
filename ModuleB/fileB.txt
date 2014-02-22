@@ -1,3 +1,5 @@
 
 
 This is first version of this dummy file B
+
+New change to file B.
